@@ -12,7 +12,7 @@ If you are looking for my CV you may find it [here](/resources/CV_English_Short.
 A little bit about me:
 
 - Currently a PhD student at the University of Utah
-- Working with profesor [Rogelio E. Cardona-Rivera](http://rogel.io/)
+- Working with profesor [Rogelio E. Cardona-Rivera](http://rogel.io/) at [QED Lab](http://qed.cs.utah.edu/)
 - Topic of interest: AI in Games
 
 Pet projects:
