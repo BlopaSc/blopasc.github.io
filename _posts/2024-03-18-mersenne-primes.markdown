@@ -12,8 +12,9 @@ This post is dedicated to the first possible prime I tested (which of course, ha
 Probable Prime tests done and their respective work/effort (sorted by numeric value):
 
 1. [M(127430617)](https://www.mersenne.org/report_exponent/?exp_lo=127430617&full=1): 646.8874 Ghz-days
-2. [M(128777507)](https://www.mersenne.org/report_exponent/?exp_lo=128777507&full=1): 696.1585 Ghz-days
-3. [M(128777569)](https://www.mersenne.org/report_exponent/?exp_lo=128777569&full=1): 696.1433 Ghz-days
-4. [M(132256547)](https://www.mersenne.org/report_exponent/?exp_lo=132256547&full=1): 759.5311 Ghz-days
-5. [M(133436423)](https://www.mersenne.org/report_exponent/?exp_lo=133436423&full=1): 707.9544 Ghz-days
+1. [M(127576157)](https://www.mersenne.org/report_exponent/?exp_lo=127576157&full=1): 647.6262 Ghz-days
+1. [M(128777507)](https://www.mersenne.org/report_exponent/?exp_lo=128777507&full=1): 696.1585 Ghz-days
+1. [M(128777569)](https://www.mersenne.org/report_exponent/?exp_lo=128777569&full=1): 696.1433 Ghz-days
+1. [M(132256547)](https://www.mersenne.org/report_exponent/?exp_lo=132256547&full=1): 759.5311 Ghz-days
+1. [M(133436423)](https://www.mersenne.org/report_exponent/?exp_lo=133436423&full=1): 707.9544 Ghz-days
 
