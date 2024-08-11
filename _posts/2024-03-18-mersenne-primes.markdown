@@ -16,6 +16,7 @@ Probable Prime tests done and their respective work/effort (sorted by numeric va
 1. [M(120717059)](https://www.mersenne.org/report_exponent/?exp_lo=120717059&full=1): 592.0585 Ghz-days
 1. [M(120928019)](https://www.mersenne.org/report_exponent/?exp_lo=120928019&full=1): 593.0931 Ghz-days
 1. [M(126262793)](https://www.mersenne.org/report_exponent/?exp_lo=126262793&full=1): 619.2576 Ghz-days
+1. [M(127220473)](https://www.mersenne.org/report_exponent/?exp_lo=127220473&full=1): 645.8206 Ghz-days
 1. [M(127430617)](https://www.mersenne.org/report_exponent/?exp_lo=127430617&full=1): 646.8874 Ghz-days
 1. [M(127576157)](https://www.mersenne.org/report_exponent/?exp_lo=127576157&full=1): 647.6262 Ghz-days
 1. [M(128777507)](https://www.mersenne.org/report_exponent/?exp_lo=128777507&full=1): 696.1585 Ghz-days
@@ -23,5 +24,6 @@ Probable Prime tests done and their respective work/effort (sorted by numeric va
 1. [M(132256547)](https://www.mersenne.org/report_exponent/?exp_lo=132256547&full=1): 759.5311 Ghz-days
 1. [M(133436423)](https://www.mersenne.org/report_exponent/?exp_lo=133436423&full=1): 707.9544 Ghz-days
 
-Total work contributed: 7104.8427 Ghz-days
-Or about: 19.4520 Ghz-years
+Total work contributed: 7750.6633 Ghz-days
+
+Or about: 21.2202 Ghz-years
